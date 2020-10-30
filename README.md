@@ -1,4 +1,4 @@
-# FyberTest
+# Covid19Statistics
 Python Flask & Jenkins for Covid-19 statistics.
 
 I wrote app.py file written in Python and service with Flask.
